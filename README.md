@@ -404,186 +404,185 @@ Multilingual Neural Machine Translation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(220).pdf" style="text-decoration:none;">Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(221).pdf" style="text-decoration:none;">Learning and Inference on Generative Adversarial Quantum Circuits</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(222).pdf" style="text-decoration:none;">Model Reduction with Memory and the Machine Learning of Dynamical Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(221).pdf" style="text-decoration:none;">Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(222).pdf" style="text-decoration:none;">Lexically Constrained Neural Machine Translation with Levenshtein Transformer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(223).pdf" style="text-decoration:none;">A machine-learning solver for modified diffusion equations</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(224).pdf" style="text-decoration:none;"> Geometry and symmetry in quantum Boltzmann machine </a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(225).pdf" style="text-decoration:none;">CosmoFlow: Using Deep Learning to Learn the Universe at Scale </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(223).pdf" style="text-decoration:none;">Simultaneous Translation Policies: From Fixed to Adaptive</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(224).pdf" style="text-decoration:none;"> Multiscale Collaborative Deep Models for Neural Machine Translation </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(225).pdf" style="text-decoration:none;">Towards Transparent and Explainable Attention Models</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(226).pdf" style="text-decoration:none;">Neural-network states for the classical simulation of quantum computing</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(226).pdf" style="text-decoration:none;">Character-Level Translation with Self-attention</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(227).pdf" style="text-decoration:none;">Machine Learning Configuration Interaction </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(227).pdf" style="text-decoration:none;">Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation</a></li> 
   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(228).pdf" style="text-decoration:none;">Artificial Neural Networks in Fluid Dynamics: A Novel Approach to the Navier-Stokes Equations</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(228).pdf" style="text-decoration:none;">Evaluating Robustness to Input Perturbations for Neural Machine Translation</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(229).pdf" style="text-decoration:none;">Smart energy models for atomistic simulations using a DFT-driven multifidelity approach</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(229).pdf" style="text-decoration:none;">Opportunistic Decoding with Timely Correction for Simultaneous Translation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(230).pdf" style="text-decoration:none;">Machine learning non-local correlations</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(230).pdf" style="text-decoration:none;">Hard-Coded Gaussian Attention for Neural Machine Translation</a></li>  
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(231).pdf" style="text-decoration:none;">
-Statistical Neurodynamics of Deep Networks: Geometry of Signal Spaces </a></li>
+ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(232).pdf" style="text-decoration:none;">The effect of retardation in the random networks of excitable nodes embeddable in the Euclidean space</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(232).pdf" style="text-decoration:none;">Quantifying Attention Flow in Transformers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(233).pdf" style="text-decoration:none;">Realizing quantum linear regression with auxiliary qumodes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(234).pdf" style="text-decoration:none;">Quantum enhanced cross-validation for near-optimal neural networks architecture selection</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(235).pdf" style="text-decoration:none;">Policy Guided Monte Carlo: Reinforcement Learning Markov Chain Dynamics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(236).pdf" style="text-decoration:none;">Reconstruction of a Photonic Qubit State with Quantum Reinforcement Learning</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(237).pdf" style="text-decoration:none;">Quantum optical neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(233).pdf" style="text-decoration:none;">Improving Non-autoregressive Neural Machine Translation with Monolingual Data</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(234).pdf" style="text-decoration:none;">On the Inference Calibration of Neural Machine Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(235).pdf" style="text-decoration:none;">On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(236).pdf" style="text-decoration:none;">Using Context in Neural Machine Translation Training Objectives</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(237).pdf" style="text-decoration:none;">Evaluating Explanation Methods for Neural Machine Translation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(238).pdf" style="text-decoration:none;"> Deep learning, quantum chaos, and pseudorandom evolution </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(239).pdf" style="text-decoration:none;">A Quantum Model for Multilayer Perceptron</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(240).pdf" style="text-decoration:none;">Quantum Neural Network States</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(241).pdf" style="text-decoration:none;">Simple coarse graining and sampling strategies for image recognition</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(242).pdf" style="text-decoration:none;">GANs for generating EFT models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(243).pdf" style="text-decoration:none;">Approaching the adiabatic timescale with machine-learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(238).pdf" style="text-decoration:none;"> Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(239).pdf" style="text-decoration:none;">It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(240).pdf" style="text-decoration:none;">Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(241).pdf" style="text-decoration:none;">Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(242).pdf" style="text-decoration:none;">Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(243).pdf" style="text-decoration:none;">On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation</a></li>
 
 
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(244).pdf" style="text-decoration:none;">Projective quantum Monte Carlo simulations guided by unrestricted neural network states</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(244).pdf" style="text-decoration:none;">Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(245).pdf" style="text-decoration:none;">Supervised machine learning of ultracold atoms with speckle disorder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(245).pdf" style="text-decoration:none;">Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(246).pdf" style="text-decoration:none;">Identifying Quantum Phase Transitions using Artificial Neural Networks on Experimental Data</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(246).pdf" style="text-decoration:none;">Unsupervised Quality Estimation for Neural Machine Translation</a></li>   
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(247).pdf" style="text-decoration:none;">Implementable Quantum Classifier for Nonlinear Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(247).pdf" style="text-decoration:none;">Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(248).pdf" style="text-decoration:none;">Neural Network Decoders for Large-Distance 2D Toric Codes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(248).pdf" style="text-decoration:none;">Phone Features Improve Speech Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(249).pdf" style="text-decoration:none;">The jamming transition as a paradigm to understand the loss landscape of deep neural networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(250).pdf" style="text-decoration:none;">Phase Diagram of Disordered Higher Order Topological Insulator: a Machine Learning Study</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(251).pdf" style="text-decoration:none;">A machine learning approach to the Berezinskii-Kosterlitz-Thouless transition in classical and quantum models</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(249).pdf" style="text-decoration:none;">Variational Neural Machine Translation with Normalizing Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(250).pdf" style="text-decoration:none;">HAT: Hardware-Aware Transformers for Efficient Natural Language Processing</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(251).pdf" style="text-decoration:none;">Interactive neural machine translation</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(252).pdf" style="text-decoration:none;">Monge-Ampère Flow for Generative Modeling</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(252).pdf" style="text-decoration:none;">Content Word Aware Neural Machine Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(253).pdf" style="text-decoration:none;">Self-organizing maps as a method for detecting phase transitions and phase identification</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(254).pdf" style="text-decoration:none;">Solving Statistical Mechanics using Variational Autoregressive Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(255).pdf" style="text-decoration:none;">Deep learning systems as complex networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(253).pdf" style="text-decoration:none;">Evaluating Explanation Methods for Neural Machine Translation</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(254).pdf" style="text-decoration:none;">Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(255).pdf" style="text-decoration:none;">Learning Source Phrase Representations for Neural Machine Translation</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(256).pdf" style="text-decoration:none;">Extracting many-particle entanglement entropy from observables using supervised machine learning </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(256).pdf" style="text-decoration:none;">Location Attention for Extrapolation to Longer Sequences </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(257).pdf" style="text-decoration:none;">An Artificial Neural Network Approach to the Analytic Continuation Problem </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(257).pdf" style="text-decoration:none;">Norm-Based Curriculum Learning for Neural Machine Translation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(258).pdf" style="text-decoration:none;">A quantum autoencoder: the compression of qutrits via machine learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(258).pdf" style="text-decoration:none;">Multi-Hypothesis Machine Translation Evaluation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(259).pdf" style="text-decoration:none;">Efficient Representation of Topologically Ordered States with Restricted Boltzmann Machines</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(260).pdf" style="text-decoration:none;">Super-resolving the Ising model with convolutional neural networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(259).pdf" style="text-decoration:none;">Multimodal Quality Estimation for Machine Translation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(260).pdf" style="text-decoration:none;">Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(261).pdf" style="text-decoration:none;">Quantum Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(261).pdf" style="text-decoration:none;">Boosting Neural Machine Translation with Similar Translations</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(262).pdf" style="text-decoration:none;">Quantum Neural Network and Soft Quantum Computing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(262).pdf" style="text-decoration:none;">End-to-End Neural Word Alignment Outperforms GIZA++</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(263).pdf" style="text-decoration:none;">Learning multiple order parameters with interpretable machines</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(263).pdf" style="text-decoration:none;">Language-aware Interlingua for Multilingual Neural Machine Translation</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(264).pdf" style="text-decoration:none;">Nonequilibrium fluctuations of a driven quantum heat engine via machine learning</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(264).pdf" style="text-decoration:none;">Parallel Sentence Mining by Constrained Decoding</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(265).pdf" style="text-decoration:none;">Topographic Representation for Quantum Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(265).pdf" style="text-decoration:none;">Self-Attention with Cross-Lingual Position Representation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(266).pdf" style="text-decoration:none;">Reinforcement Learning Decoders for Fault-Tolerant Quantum Computation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(266).pdf" style="text-decoration:none;">"You Sound Just Like Your Father" Commercial Machine Translation Systems Include Stylistic Biases</a></li> 
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(267).pdf" style="text-decoration:none;">Thermodynamics and Feature Extraction by Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(267).pdf" style="text-decoration:none;">MMPE: A Multi-Modal Interface for Post-Editing Machine Translation</a></li>
  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(268).pdf" style="text-decoration:none;">A jamming transition from under- to over-parametrization affects loss landscape and generalization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(268).pdf" style="text-decoration:none;">Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(269).pdf" style="text-decoration:none;">Emulating quantum computation with artificial neural networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(269).pdf" style="text-decoration:none;">A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation</a></li>
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(270).pdf" style="text-decoration:none;">The Role of Data in Model Building and Prediction: A Survey Through Examples</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(270).pdf" style="text-decoration:none;">A Relaxed Matching Procedure for Unsupervised BLI</a></li>
  
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(271).pdf" style="text-decoration:none;">Toward an AI Physicist for Unsupervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(271).pdf" style="text-decoration:none;">Geometry-aware Domain Adaptation for Unsupervised Alignment of Word Embeddings</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(272).pdf" style="text-decoration:none;">Reconstructing quantum states with generative models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(272).pdf" style="text-decoration:none;">Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(273).pdf" style="text-decoration:none;">Quantum data compression by principal component analysis</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(274).pdf" style="text-decoration:none;">Free energies of Boltzmann Machines: self-averaging, annealed and replica symmetric approximations in the thermodynamic limit</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(275).pdf" style="text-decoration:none;">Machine learning density functional theory for the Hubbard model</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(276).pdf" style="text-decoration:none;">Quantum advantage in training binary neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(277).pdf" style="text-decoration:none;">Quantum-inspired classical algorithms for principal component analysis and supervised clustering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(273).pdf" style="text-decoration:none;">A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(274).pdf" style="text-decoration:none;">A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(275).pdf" style="text-decoration:none;">A Simple and Effective Unified Encoder for Document-Level Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(276).pdf" style="text-decoration:none;">Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(277).pdf" style="text-decoration:none;">SimulSpeech: End-to-End Simultaneous Speech to Text Translation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(278).pdf" style="text-decoration:none;"> Deep Learning of Robust and High-Precision Quantum Controls </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(279).pdf" style="text-decoration:none;">Machine learning for molecular dynamics with strongly correlated electrons</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(278).pdf" style="text-decoration:none;"> Modeling Word Formation in English–German Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(279).pdf" style="text-decoration:none;">Multimodal Transformer for Multimodal Machine Translation</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(280).pdf" style="text-decoration:none;">An Artificial Neuron Implemented on an Actual Quantum Processor </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(281).pdf" style="text-decoration:none;">Artificial neural networks for density-functional optimizations in fermionic systems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(282).pdf" style="text-decoration:none;">Adversarial Uncertainty Quantification in Physics-Informed Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(283).pdf" style="text-decoration:none;">Efficient prediction of 3D electron densities using machine learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(280).pdf" style="text-decoration:none;">Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(281).pdf" style="text-decoration:none;">AdvAug: Robust Adversarial Augmentation for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(282).pdf" style="text-decoration:none;">Improving Neural Machine Translation with Soft Template Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(283).pdf" style="text-decoration:none;">Tagged Back-translation Revisited: Why Does It Really Work?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(284).pdf" style="text-decoration:none;">Neural network state estimation for full quantum state tomography</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(284).pdf" style="text-decoration:none;">Are we Estimating or Guesstimating Translation Quality?</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(285).pdf" style="text-decoration:none;">Experimental Simultaneous Learning of Multiple Non-Classical Correlations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(285).pdf" style="text-decoration:none;">Highway Transformer: Self-Gating Enhanced Self-Attentive Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(286).pdf" style="text-decoration:none;">Neural Belief-Propagation Decoders for Quantum Error-Correcting Codes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(286).pdf" style="text-decoration:none;">Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(287).pdf" style="text-decoration:none;">Advances in Quantum Reinforcement Learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(287).pdf" style="text-decoration:none;">Gender in Danger?
+Evaluating Speech Translation Technology on the MuST-SHE Corpus</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(288).pdf" style="text-decoration:none;">Energy Levels of One Dimensional Anharmonic Oscillator via Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(288).pdf" style="text-decoration:none;">In Neural Machine Translation, What Does Transfer Learning Transfer?</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(289).pdf" style="text-decoration:none;">Deep Learning and Density Functional Theory</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(289).pdf" style="text-decoration:none;">BLEURT: Learning Robust Metrics for Text Generation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(290).pdf" style="text-decoration:none;">fPINNs: Fractional Physics-Informed Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(290).pdf" style="text-decoration:none;">Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(291).pdf" style="text-decoration:none;">Physics-aware Deep Generative Models for Creating Synthetic Microstructures</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(292).pdf" style="text-decoration:none;">Developing a Bubble Chamber Particle Discriminator Using Semi-Supervised Learning</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(293).pdf" style="text-decoration:none;">Estimating of the inertial manifold dimension for a chaotic attractor of complex Ginzburg-Landau equation using a
-neural network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(291).pdf" style="text-decoration:none;">Parallel Corpus Filtering via Pre-trained Language Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(292).pdf" style="text-decoration:none;">Sequence to Sequence Learning with Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(293).pdf" style="text-decoration:none;">Dual Learning for Machine Translation</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(294).pdf" style="text-decoration:none;">Quantum error correction for the toric code using deep reinforcement learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(294).pdf" style="text-decoration:none;">Decoding with Value Networks for Neural Machine Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(295).pdf" style="text-decoration:none;">Using a Recurrent Neural Network to Reconstruct Quantum Dynamics of a Superconducting Qubit from Physical Observations</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(296).pdf" style="text-decoration:none;">Variational optimization in the AI era: Computational Graph States and Supervised Wave-function Optimization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(297).pdf" style="text-decoration:none;">Classifying Snapshots of the Doped Hubbard Model with Machine Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(295).pdf" style="text-decoration:none;">Deliberation Networks: Sequence Generation Beyond One-Pass Decoding</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(296).pdf" style="text-decoration:none;">Attention Is All You Need</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(297).pdf" style="text-decoration:none;">Learned in Translation: Contextualized Word Vectors</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(298).pdf" style="text-decoration:none;">Designing neural network based decoders for surface codes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(298).pdf" style="text-decoration:none;">Generative Neural Machine Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(299).pdf" style="text-decoration:none;">Quantum topology identification with deep neural networks and quantum walks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(299).pdf" style="text-decoration:none;">MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(300).pdf" style="text-decoration:none;">Divergence of predictive model output as indication of phase transitions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(300).pdf" style="text-decoration:none;">Learning to Teach with Dynamic Loss Functions</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(301).pdf" style="text-decoration:none;">Designing quantum experiments with a genetic algorithm</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(301).pdf" style="text-decoration:none;">Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(302).pdf" style="text-decoration:none;">Phase transition encoded in neural network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(302).pdf" style="text-decoration:none;">Blockwise Parallel Decoding for Deep Autoregressive Models</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(303).pdf" style="text-decoration:none;">Approximating the solution to wave propagation using deep neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(304).pdf" style="text-decoration:none;">Boltzmann Generators – Sampling Equilibrium States of Many-Body Systems with Deep Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(305).pdf" style="text-decoration:none;">Enhancing the efficiency of quantum annealing via reinforcement: A path-integral Monte Carlo simulation of the quantum
-reinforcement algorithm</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(306).pdf" style="text-decoration:none;">Quantum algorithms for feedforward neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(307).pdf" style="text-decoration:none;">A hybrid machine-learning algorithm for designing quantum experiments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(303).pdf" style="text-decoration:none;">Comparing UnsupervisedWord Translation Methods Step by Step</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(304).pdf" style="text-decoration:none;">Neural Machine Translation with Soft Prototype</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(305).pdf" style="text-decoration:none;">Levenshtein Transformer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(306).pdf" style="text-decoration:none;">A Latent Morphology Model for Open-Vocabulary Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(307).pdf" style="text-decoration:none;">Reinforced Curriculum Learning on Pre-trained Neural Machine Translation Models</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(308).pdf" style="text-decoration:none;">q-means: A quantum algorithm for unsupervised machine learning </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(309).pdf" style="text-decoration:none;">Adaptive Quantum State Tomography with Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(308).pdf" style="text-decoration:none;">Alignment by Agreement </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(309).pdf" style="text-decoration:none;">A Study of Translation Edit Rate with Targeted Human Annotation</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(310).pdf" style="text-decoration:none;">Machine Learning as a universal tool for quantitative investigations of phase transitions </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(311).pdf" style="text-decoration:none;">Machine Learning for Optimal Parameter Prediction in Quantum Key Distribution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(312).pdf" style="text-decoration:none;">Parameters optimization and real-time calibration of Measurement-Device-Independent Quantum Key Distribution Network based on BackPropagation Artificial Neural Network</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(313).pdf" style="text-decoration:none;">Optimizing Quantum Error Correction Codes with Reinforcement Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(310).pdf" style="text-decoration:none;">Are Transformers universal approximators of sequence-to-sequence functions? </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(311).pdf" style="text-decoration:none;">Ensemble Learning for Multi-Source Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(312).pdf" style="text-decoration:none;">Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(313).pdf" style="text-decoration:none;">Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(314).pdf" style="text-decoration:none;">Deep ToC: A New Method for Estimating the Solutions of PDEs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(314).pdf" style="text-decoration:none;">Modeling Coherence for Neural Machine Translation with Dynamic and Topic Caches</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(315).pdf" style="text-decoration:none;">Variational quantum simulation of general processes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(315).pdf" style="text-decoration:none;">Improving Neural Machine Translation by Incorporating Hierarchical Subword Features</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(316).pdf" style="text-decoration:none;">QuCumber: wavefunction reconstruction with neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(316).pdf" style="text-decoration:none;">A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(317).pdf" style="text-decoration:none;">Quantum algorithm and quantum circuit for A-Optimal Projection: dimensionality reduction</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(317).pdf" style="text-decoration:none;">On Adversarial Examples for Character-Level Neural Machine Translation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(318).pdf" style="text-decoration:none;">Extrapolation of quantum observables with Gaussian processes</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(318).pdf" style="text-decoration:none;">Leveraging Meta-Embeddings for Bilingual Lexicon Extraction from Specialized Comparable Corpora</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(319).pdf" style="text-decoration:none;">The geometry of quantum learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(319).pdf" style="text-decoration:none;">Refining Source Representations with Relation Networks for Neural Machine Translation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(320).pdf" style="text-decoration:none;">Improved Bounds on Quantum Learning Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(320).pdf" style="text-decoration:none;">A Survey of Domain Adaptation for Neural Machine Translation</a></li>
 
  
  
