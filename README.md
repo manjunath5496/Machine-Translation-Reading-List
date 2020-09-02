@@ -241,7 +241,7 @@ Predicting Untranslated Terminology in Simultaneous Interpretation</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(128).pdf" style="text-decoration:none;">Generalized Data Augmentation for Low-Resource Translation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(129).pdf" style="text-decoration:none;"Analyzing the Structure of Attention in a Transformer Language Model</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(129).pdf" style="text-decoration:none;">Analyzing the Structure of Attention in a Transformer Language Model</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(130).pdf" style="text-decoration:none;">Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks</a></li>    
    
