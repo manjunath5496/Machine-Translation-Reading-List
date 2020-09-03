@@ -858,6 +858,226 @@ A Targeted Evaluation of Neural Machine Translation Architectures</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(475).pdf" style="text-decoration:none;">Unsupervised Training for Large Vocabulary Translation Using Sparse Lexicon and Word Classes</a></li>
  
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(476).pdf" style="text-decoration:none;">A Unified Neural Network for Quality Estimation of Machine Translation </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(477).pdf" style="text-decoration:none;"> Emergent Translation in Multi-Agent Communication</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(478).pdf" style="text-decoration:none;">A Simple and Effective Hierarchical Phrase Reordering Model</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(479).pdf" style="text-decoration:none;">Transfer Learning for Low-Resource Neural Machine Translation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(480).pdf" style="text-decoration:none;">Encoding word order in complex embeddings</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(481).pdf" style="text-decoration:none;">Achieving Human Parity on Automatic Chinese to English News Translation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(482).pdf" style="text-decoration:none;">Generating Natural Adversarial Examples</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(483).pdf" style="text-decoration:none;">An Exploration of Neural Sequence-to-Sequence Architectures for Automatic Post-Editing</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(484).pdf" style="text-decoration:none;">Neural Lattice Search for Domain Adaptation in Machine Translation</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(485).pdf" style="text-decoration:none;">Boosting Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(486).pdf" style="text-decoration:none;">Identifying and Controlling Important Neurons in Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(487).pdf" style="text-decoration:none;">Agreement-based Joint Training for Bidirectional Attention-based Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(488).pdf" style="text-decoration:none;">Joint Training for Pivot-based Neural Machine Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(489).pdf" style="text-decoration:none;">Maximum Expected Likelihood Estimation for Zero-Resource Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(490).pdf" style="text-decoration:none;">Improving Sequence-to-Sequence Learning via Optimal Transport</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(491).pdf" style="text-decoration:none;">Incorporating BERT into Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(492).pdf" style="text-decoration:none;">Improved Speech-to-Text Translation with the Fisher and Callhome Spanish–English Speech Translation Corpus</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(493).pdf" style="text-decoration:none;">A Systematic Comparison of Various Statistical Alignment Models</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(494).pdf" style="text-decoration:none;">Hierarchical Phrase-Based Translation</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(495).pdf" style="text-decoration:none;">A Comprehensive Analysis of Bilingual Lexicon Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(496).pdf" style="text-decoration:none;">Feature-Based Decipherment for Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(497).pdf" style="text-decoration:none;">The Mathematics of Statistical Machine Translation: Parameter Estimation</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(498).pdf" style="text-decoration:none;">Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(499).pdf" style="text-decoration:none;">Compression of Neural Machine Translation Models via Pruning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(500).pdf" style="text-decoration:none;">Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(501).pdf" style="text-decoration:none;">Active Learning for Interactive Neural Machine Translation of Data Streams</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(502).pdf" style="text-decoration:none;">Trainable Decoding of Sets of Sequences for Neural Sequence Models</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(503).pdf" style="text-decoration:none;">Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling SequencesWithout Replacement</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(504).pdf" style="text-decoration:none;">Translating without in-domain corpus: Machine translationpost-editing with online learning techniques</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(505).pdf" style="text-decoration:none;">Language Models are Unsupervised Multitask Learners </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(506).pdf" style="text-decoration:none;">Improving Language Understanding by Generative Pre-Training</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(507).pdf" style="text-decoration:none;">Efficient Transformer for Mobile Applications</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(508).pdf" style="text-decoration:none;">Neural Machine Translation</a></li>
+ 
+ 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(509).pdf" style="text-decoration:none;">Massively Multilingual Sparse Word Representations</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(510).pdf" style="text-decoration:none;">Mirror-Generative Neural Machine Translation</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(511).pdf" style="text-decoration:none;">Segment-Based Interactive-Predictive Machine Translation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(512).pdf" style="text-decoration:none;">Multi-Agent Dual Learning</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(513).pdf" style="text-decoration:none;">Multilingual Alignment of Contextual Word Representations </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(514).pdf" style="text-decoration:none;">Multilingual Neural Machine Translation with Knowledge Distillation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(515).pdf" style="text-decoration:none;">Multilingual Neural Machine Translation With Soft Decoupled Encoding</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(516).pdf" style="text-decoration:none;">Statistical Phrase-Based Translation</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(517).pdf" style="text-decoration:none;">11,001 New Features for Statistical Machine Translation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(518).pdf" style="text-decoration:none;">A Simple, Fast, and Effective Reparameterization of IBM Model 2</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(519).pdf" style="text-decoration:none;"> Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(520).pdf" style="text-decoration:none;">Controlling Politeness in Neural Machine Translation via Side Constraints</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(521).pdf" style="text-decoration:none;">A Recurrent Neural Networks Approach for Estimating the Quality of Machine Translation Output</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(522).pdf" style="text-decoration:none;">An Attentional Model for Speech Translation Without Transcription</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(523).pdf" style="text-decoration:none;">PRIMT: A Pick-Revise Framework for Interactive Machine Translation</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(524).pdf" style="text-decoration:none;">Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(525).pdf" style="text-decoration:none;">QuickEdit: Editing Text & Translations by Crossing Words Out</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(526).pdf" style="text-decoration:none;">Improving Lexical Choice in Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(527).pdf" style="text-decoration:none;">Universal Neural Machine Translation for Extremely Low Resource Languages</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(528).pdf" style="text-decoration:none;">Classical Structured Prediction Losses for Sequence to Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(529).pdf" style="text-decoration:none;">Combining Character and Word Information in Neural Machine Translation Using a Multi-Level Attention</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(530).pdf" style="text-decoration:none;">Dense Information Flow for Neural Machine Translation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(531).pdf" style="text-decoration:none;">Evaluating Discourse Phenomena in Neural Machine Translation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(532).pdf" style="text-decoration:none;">Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(533).pdf" style="text-decoration:none;">Guiding Neural Machine Translation with Retrieved Translation Pieces </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(534).pdf" style="text-decoration:none;">Handling Homographs in Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(535).pdf" style="text-decoration:none;">Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(536).pdf" style="text-decoration:none;">Neural Machine Translation for Bilingually Scarce Scenarios: A Deep Multi-task Learning Approach</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(537).pdf" style="text-decoration:none;">Self-Attentive Residual Decoder for Neural Machine Translation</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(538).pdf" style="text-decoration:none;">Target Foresight based Attention for Neural Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(539).pdf" style="text-decoration:none;">Generative Bridging Network for Neural Sequence Prediction</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(540).pdf" style="text-decoration:none;">Deep contextualized word representations</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(541).pdf" style="text-decoration:none;">Neural Poetry Translation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(542).pdf" style="text-decoration:none;">Evaluating bilingual word embeddings on the long tail</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(543).pdf" style="text-decoration:none;">Self-Attention with Relative Position Representations</a></li>
+
+ 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(544).pdf" style="text-decoration:none;">Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(545).pdf" style="text-decoration:none;">Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(546).pdf" style="text-decoration:none;">Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(547).pdf" style="text-decoration:none;">Neural Machine Translation Decoding with Terminology Constraints</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(548).pdf" style="text-decoration:none;">On the Evaluation of Semantic Phenomena in Neural Machine Translation Using Natural Language Inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(549).pdf" style="text-decoration:none;">Using Word Vectors to Improve Word Alignments for Low Resource Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(550).pdf" style="text-decoration:none;">When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation?</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(551).pdf" style="text-decoration:none;"> Can Neural Machine Translation be Improved with User Feedback?</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(552).pdf" style="text-decoration:none;">Accelerating NMT Batched Beam Decoding with LMBR Posteriors for Deployment</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(553).pdf" style="text-decoration:none;">Pieces of Eight: 8-bit Neural Machine Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(554).pdf" style="text-decoration:none;">Code-Switching for Enhancing NMT with Pre-Specified Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(555).pdf" style="text-decoration:none;">Neural Interactive Translation Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(556).pdf" style="text-decoration:none;">On Identifiability in Transformers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(557).pdf" style="text-decoration:none;">Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(558).pdf" style="text-decoration:none;">Discriminative Training and Maximum Entropy Models for Statistical Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(559).pdf" style="text-decoration:none;">BLEU: a Method for Automatic Evaluation of Machine Translation</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(560).pdf" style="text-decoration:none;">Minimum Error Rate Training in Statistical Machine Translation</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(561).pdf" style="text-decoration:none;">Tree-to-String Alignment Template for Statistical Machine Translation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(562).pdf" style="text-decoration:none;">Scalable Inference and Training of Context-Rich Syntactic Translation Models</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(563).pdf" style="text-decoration:none;"> Statistical phrase-based models for interactive computer-assisted translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(564).pdf" style="text-decoration:none;">Improved Word-Level System Combination for Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(565).pdf" style="text-decoration:none;">Forest-Based Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(566).pdf" style="text-decoration:none;">A Tree Sequence Alignment-based Tree-to-Tree Translation Model</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(567).pdf" style="text-decoration:none;">A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(568).pdf" style="text-decoration:none;">Improving Tree-to-Tree Translation with Packed Forests</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(569).pdf" style="text-decoration:none;">Learning to Translate with Source and Target Syntax</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(570).pdf" style="text-decoration:none;">On Using Very Large Target Vocabulary for Neural Machine Translation</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(571).pdf" style="text-decoration:none;">Addressing the Rare Word Problem in Neural Machine Translation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(572).pdf" style="text-decoration:none;">Multi-Task Learning for Multiple Language Translation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(573).pdf" style="text-decoration:none;">Models and Inference for Prefix-Constrained Machine Translation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(574).pdf" style="text-decoration:none;">Modeling Coverage for Neural Machine Translation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(575).pdf" style="text-decoration:none;">On the Role of Seed Lexicons in Learning BilingualWord Embeddings</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(576).pdf" style="text-decoration:none;">Tree-to-Sequence Attentional Neural Machine Translation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(577).pdf" style="text-decoration:none;">Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(578).pdf" style="text-decoration:none;">Incorporating Copying Mechanism in Sequence-to-Sequence Learning</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(579).pdf" style="text-decoration:none;">Minimum Risk Training for Neural Machine Translation</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(580).pdf" style="text-decoration:none;">A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(581).pdf" style="text-decoration:none;">Semi-Supervised Learning for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(582).pdf" style="text-decoration:none;">Multimodal Pivots for Image Caption Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(583).pdf" style="text-decoration:none;">Vocabulary Manipulation for Neural Machine Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(584).pdf" style="text-decoration:none;">A Neural Network based Approach to Automatic Post-Editing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(585).pdf" style="text-decoration:none;">Syntactically Guided Neural Machine Translation</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(458).pdf" style="text-decoration:none;">Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(459).pdf" style="text-decoration:none;">Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(460).pdf" style="text-decoration:none;">Learning to Copy for Automatic Post-Editing</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(461).pdf" style="text-decoration:none;"> Depth-Adaptive Transformer</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(462).pdf" style="text-decoration:none;">Depthwise Separable Convolutions for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(463).pdf" style="text-decoration:none;">Integrating Meaning into Quality Evaluation of Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(464).pdf" style="text-decoration:none;">Online Automatic Post-editing for MT in a Multi-Domain Translation Environment</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(465).pdf" style="text-decoration:none;">Learning to Translate in Real-time with Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(466).pdf" style="text-decoration:none;">Personalized Machine Translation: Preserving Original Author Traits</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(467).pdf" style="text-decoration:none;">Bilingual Lexicon Induction by Learning to CombineWord-Level and Character-Level Representations</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(468).pdf" style="text-decoration:none;">Using the Output Embedding to Improve Language Models</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(469).pdf" style="text-decoration:none;">Neural Automatic Post-Editing Using Prior Alignment and Reranking </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(470).pdf" style="text-decoration:none;">Improving Evaluation of Document-level Machine Translation Quality Estimation</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(471).pdf" style="text-decoration:none;">How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(472).pdf" style="text-decoration:none;">Neural Machine Translation with Recurrent Attention Modeling </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(473).pdf" style="text-decoration:none;">Towards speech-to-text translation without speech recognition</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(474).pdf" style="text-decoration:none;">Bootstrapping Unsupervised Bilingual Lexicon Induction</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(475).pdf" style="text-decoration:none;">Unsupervised Training for Large Vocabulary Translation Using Sparse Lexicon and Word Classes</a></li>
  
  
  
