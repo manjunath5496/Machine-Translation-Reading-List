@@ -1252,22 +1252,22 @@ Flexible Sequence Generation via Insertion Operations</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(699).pdf" style="text-decoration:none;">Synthetic and Natural Noise Both Break Neural Machine Translation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(700).pdf" style="text-decoration:none;">Synchronous Bidirectional Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(648).pdf" style="text-decoration:none;">Unsupervised Pivot Translation for Distant Languages</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(701).pdf" style="text-decoration:none;">Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(649).pdf" style="text-decoration:none;">An Effective Approach to Unsupervised Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(702).pdf" style="text-decoration:none;">Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(650).pdf" style="text-decoration:none;">Effective Adversarial Regularization for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(703).pdf" style="text-decoration:none;">Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(651).pdf" style="text-decoration:none;">A Compact and Language-Sensitive Multilingual Translation Method</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(704).pdf" style="text-decoration:none;">Does Syntax Need to Grow on Trees? Sources of Hierarchical Inductive Bias in Sequence-to-Sequence Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(652).pdf" style="text-decoration:none;">Unsupervised BilingualWord Embedding Agreement for Unsupervised Neural Machine Translation</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(705).pdf" style="text-decoration:none;">Theoretical Limitations of Self-Attention in Neural Sequence Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(653).pdf" style="text-decoration:none;">Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(706).pdf" style="text-decoration:none;">Leveraging Pre-trained Checkpoints for Sequence Generation Tasks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(654).pdf" style="text-decoration:none;">Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(655).pdf" style="text-decoration:none;">Dynamically Composing Domain-Data Selection with Clean-Data Selection by "Co-Curricular Learning" for Neural Machine Translation</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(656).pdf" style="text-decoration:none;">On the Word Alignment from Neural Machine Translation</a></li>
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(707).pdf" style="text-decoration:none;">Towards Neural Phrase-based Machine Translation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(708).pdf" style="text-decoration:none;">Transductive Ensemble Learning for Neural Machine Translation</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(709).pdf" style="text-decoration:none;">Statistical Machine Translation: the basic, the novel, and the speculative</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(710).pdf" style="text-decoration:none;"> Universal Transformers</a></li>
  
  
  
