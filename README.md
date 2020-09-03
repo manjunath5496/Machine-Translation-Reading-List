@@ -1294,7 +1294,14 @@ Flexible Sequence Generation via Insertion Operations</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(724).pdf" style="text-decoration:none;">Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(725).pdf" style="text-decoration:none;"> Six Challenges for Neural Machine Translation</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(726).pdf" style="text-decoration:none;">Cost Weighting for Neural Machine Translation Domain Adaptation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(727).pdf" style="text-decoration:none;">Beam Search Strategies for Neural Machine Translation</a></li>
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(728).pdf" style="text-decoration:none;">Effective Domain Mixing for Neural Machine Translation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(729).pdf" style="text-decoration:none;">Adapting Neural Machine Translation with Parallel Synthetic Data</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(730).pdf" style="text-decoration:none;">Copied Monolingual Data Improves Low-Resource Neural Machine Translation</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(731).pdf" style="text-decoration:none;"> Guiding Neural Machine Translation Decoding with External Knowledge</a></li>
  
  
  
