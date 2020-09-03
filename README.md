@@ -1133,7 +1133,7 @@ Combining Recent Advances in Neural Machine Translation</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(629).pdf" style="text-decoration:none;">Accelerating Neural Transformer via an Average Attention Network</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(630).pdf" style="text-decoration:none;">Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(630).pdf" style="text-decoration:none;">Introduction to Machine Learning</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(631).pdf" style="text-decoration:none;">How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures</a></li> 
 
