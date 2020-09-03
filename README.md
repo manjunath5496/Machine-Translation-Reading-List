@@ -1303,6 +1303,25 @@ Flexible Sequence Generation via Insertion Operations</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(730).pdf" style="text-decoration:none;">Copied Monolingual Data Improves Low-Resource Neural Machine Translation</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(731).pdf" style="text-decoration:none;"> Guiding Neural Machine Translation Decoding with External Knowledge</a></li>
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(732).pdf" style="text-decoration:none;"> Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(733).pdf" style="text-decoration:none;">Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(734).pdf" style="text-decoration:none;">Neural Machine Translation with Extended Context</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(735).pdf" style="text-decoration:none;">An Operation Sequence Model for Explainable Neural Machine Translation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(736).pdf" style="text-decoration:none;">An Analysis of Encoder Representations in Transformer-Based Machine Translation</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(737).pdf" style="text-decoration:none;">Scaling Neural Machine Translation</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(738).pdf" style="text-decoration:none;"> Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(739).pdf" style="text-decoration:none;">Trivial Transfer Learning for Low-Resource Neural Machine Translation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(740).pdf" style="text-decoration:none;">Parameter Sharing Methods for Multilingual Self-Attentional Translation Models</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(741).pdf" style="text-decoration:none;">Findings of the Third Shared Task on Multimodal Machine Translation</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(742).pdf" style="text-decoration:none;"> Findings of the WMT 2018 Shared Task on Quality Estimation</a></li>
+ 
+ 
+ 
+ 
  
  
  </ul>
