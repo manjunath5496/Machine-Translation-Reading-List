@@ -1270,6 +1270,30 @@ Flexible Sequence Generation via Insertion Operations</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(710).pdf" style="text-decoration:none;"> Universal Transformers</a></li>
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(711).pdf" style="text-decoration:none;">Unsupervised Machine Translation Using Monolingual Corpora Only</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(712).pdf" style="text-decoration:none;">Unsupervised Neural Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(713).pdf" style="text-decoration:none;">Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(714).pdf" style="text-decoration:none;">Statistical Significance Tests for Machine Translation Evaluation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(715).pdf" style="text-decoration:none;">METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(716).pdf" style="text-decoration:none;">QUality Estimation from ScraTCH (QUETCH): Deep Learning forWord-level Translation Quality Estimation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(717).pdf" style="text-decoration:none;">CHRF: character n-gram F-score for automatic MT evaluation</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(718).pdf" style="text-decoration:none;">A Shared Task on Multimodal Machine Translation and Crosslingual Image Description</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(719).pdf" style="text-decoration:none;">DCU-UvA Multimodal MT System Report</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(720).pdf" style="text-decoration:none;">Attention-based Multimodal Neural Machine Translation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(721).pdf" style="text-decoration:none;">WMT 2016 Multimodal Translation System Description based on Bidirectional Recurrent Neural Networks with Double-Embeddings</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(722).pdf" style="text-decoration:none;">SHEF-Multimodal: Grounding Machine Translation on Images</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(723).pdf" style="text-decoration:none;">Log-linear Combinations of Monolingual and Bilingual Neural Machine Translation Models for Automatic Post-Editing</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(724).pdf" style="text-decoration:none;">Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Translation-Reading-List/blob/master/mtrl(725).pdf" style="text-decoration:none;"> Six Challenges for Neural Machine Translation</a></li>
+ 
  
  
  
